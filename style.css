@@ -1,1 +1,6 @@
-p { background-color: red; }
+p { color: darkred }
+b { color: darkred }
+h1 { color:blue; }
+h2 { color: darkred }
+ul { color: pink }
+.jatkuu { color: red }
