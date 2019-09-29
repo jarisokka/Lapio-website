@@ -1,6 +1,15 @@
-p { color: darkred }
-b { color: darkred }
-h1 { color:blue; }
-h2 { color: darkred }
-ul { color: pink }
-.jatkuu { color: red }
+body{
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;   
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #333;
+}
+
